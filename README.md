@@ -67,5 +67,5 @@ Cervezas y platillos Belgas
 Cervezas y pizzas artensanales
 
 * $$$
-* [Ubicación](<https://goo.gl/maps/b39vGqcYyYm>)
-* [Facebook](<https://www.facebook.com/pg/BelaChela.mx/about/?ref=page_internal)
+* [Ubicación](https://goo.gl/maps/b39vGqcYyYm)
+* [Facebook](https://www.facebook.com/pg/BelaChela.mx/about/?ref=page_internal)
