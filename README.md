@@ -61,3 +61,11 @@ Cervezas y platillos Belgas
 * $$
 * [Ubicación](https://goo.gl/maps/v2Syvqb7Nq72)
 * [Pagina](http://www.barlecarre.com/en/home/), [Facebook](https://www.facebook.com/lecarremid/?ref=aymt_homepage_panel)
+
+### Bela Chela
+
+Cervezas y pizzas artensanales
+
+* $$$
+* [Ubicación](https://goo.gl/maps/b39vGqcYyYm)
+* [Facebook](https://www.facebook.com/pg/BelaChela.mx/about/?ref=page_internal)
